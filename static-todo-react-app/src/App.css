@@ -1,0 +1,10 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color:black
+}
+
+.profile-card {
+  border: 1px solid black;
+  padding: 15px;
+  background-color: antiquewhite;
+}
